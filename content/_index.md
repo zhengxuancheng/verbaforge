@@ -5,7 +5,7 @@ layout: single
 
 # VerbaForge
 
-**Professional AI content & translation. 48-hour turnaround. Pay after you approve.**
+**AI-powered content that ranks and converts. 48-hour turnaround. Pay after you approve.**
 
 ---
 
@@ -27,20 +27,12 @@ Full product listing rewrite for higher conversion: title, bullet points, descri
 
 *Perfect for: Amazon FBA sellers, factories going global, private label brands.*
 
-### 🌐 Technical Translation (EN ↔ ZH) — $0.10/word
-
-Precision technical translation with AI assistance and human review. Specialized in IT, manufacturing, and e-commerce documentation.
-
-**Deliverables:** Translated document, glossary, QA report.
-
-*Perfect for: Tech companies, manufacturers, cross-border e-commerce.*
-
 ---
 
 ## Why VerbaForge
 
-- **10+ years technical translation** experience at Fortune 500 tech companies
 - **AI-native workflow** — best tools, human-quality output
+- **Proven results** — 48-article content portfolio live and ranking
 - **Zero upfront payment** — approve before paying
 - **48-hour standard turnaround**, rush delivery available
 
@@ -55,14 +47,14 @@ Precision technical translation with AI assistance and human review. Specialized
 
 ---
 
-## Portfolio Samples
+## Portfolio
 
 | Project | Type | Industry |
 |---------|------|----------|
 | 48-article affiliate content system | SEO blog network | Multi-niche |
 | Amazon product listing optimization | Listing rewrite | Consumer electronics |
-| Technical manual localization | Translation | IT hardware |
-| AI-assisted SEO strategy | Content strategy | E-commerce |
+| Keyword strategy for new site launch | Content strategy | E-commerce |
+| Full-site content audit & rewrite | SEO content | SaaS |
 
 *Full samples available on request — includes live URLs and performance data.*
 

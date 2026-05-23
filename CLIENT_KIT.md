@@ -54,34 +54,6 @@ Why me:
 - Standard ($300): 3 listings + keyword research report
 - Premium ($600): 10 listings + A+ Content + brand story
 
----
-
-### Gig 3: Technical Translation EN ↔ ZH
-
-**Title:** Professional English-Chinese technical translation — IT, manufacturing, e-commerce
-
-**Description:**
-AI-assisted translation with professional human review. Not machine translation — I use AI as a tool, then apply 10+ years of technical translation expertise to ensure accuracy, terminology consistency, and natural phrasing in both languages.
-
-Specialized in:
-- IT hardware documentation
-- Manufacturing specifications
-- E-commerce product listings
-- Software UI strings
-- Legal/contract documents
-
-What you get:
-✅ Professionally translated document
-✅ Bilingual glossary
-✅ Terminology consistency report
-✅ 48-hour delivery for up to 5,000 words
-
-Why me: 10+ years as a professional translator at Dell — I know when AI gets it wrong.
-
-**Pricing:** $0.10/word standard, $0.15/word technical/rush
-
----
-
 ## LinkedIn Outreach Template
 
 **Subject:** Quick question about your content strategy
@@ -105,7 +77,7 @@ contact@verbaforge.com
 
 ## Reddit Response Template (r/forhire, r/freelance_forhire)
 
-When you see a [HIRING] post for content writing/translation:
+When you see a [HIRING] post for content writing or Amazon listing optimization:
 
 "Hi, I can help with this. 10+ years professional writing at Dell, AI-accelerated workflow for fast turnaround. Portfolio includes 48 ranked articles and Amazon listing optimizations. $[X]/article or $[X]/project. DM me for samples and live URLs. — VerbaForge"
 
@@ -115,7 +87,7 @@ When you see a [HIRING] post for content writing/translation:
 
 1. **Landing page is live** → https://zhengxuancheng.github.io/verbaforge/ (auto-deployed via GitHub Pages)
 
-2. **Create Fiverr account** → Copy gig templates above, set up 3 gigs
+2. **Create Fiverr account** → Copy the 2 gig templates above, set up both gigs
 
 3. **Check Reddit leads** → Every 6 hours, you'll get a report here with hiring posts. Respond with the template.
 
