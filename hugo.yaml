@@ -1,0 +1,27 @@
+baseURL: "https://liujinxing.pages.dev/"
+locale: "en-us"
+title: "AI-Powered Content & Translation Services"
+theme: "PaperMod"
+enableRobotsTXT: true
+
+params:
+  env: production
+  description: "Professional AI-enhanced content writing, Amazon listing optimization, and technical translation services. Fast turnaround, human quality."
+  author: "Jinxing Liu"
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowBreadCrumbs: false
+  ShowPostNavLinks: false
+  hideFooter: false
+
+outputs:
+  home: ["HTML"]
+
+menu:
+  main:
+    - name: Services
+      url: "#services"
+      weight: 1
+    - name: Contact
+      url: "mailto:liujinxing@proton.me"
+      weight: 2

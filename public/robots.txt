@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://liujinxing.pages.dev/sitemap.xml
