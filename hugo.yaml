@@ -25,3 +25,4 @@ menu:
     - name: Contact
       url: "mailto:contact@verbaforge.com"
       weight: 2
+publishDir: docs
