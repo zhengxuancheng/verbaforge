@@ -1,13 +1,13 @@
-baseURL: "https://liujinxing.pages.dev/"
+baseURL: "https://verbaforge.pages.dev/"
 locale: "en-us"
-title: "AI-Powered Content & Translation Services"
+title: "VerbaForge — AI Content & Translation Studio"
 theme: "PaperMod"
 enableRobotsTXT: true
 
 params:
   env: production
-  description: "Professional AI-enhanced content writing, Amazon listing optimization, and technical translation services. Fast turnaround, human quality."
-  author: "Jinxing Liu"
+  description: "Professional AI-enhanced content writing, Amazon listing optimization, and technical translation. Fast turnaround, human quality."
+  author: "VerbaForge Studio"
   ShowReadingTime: false
   ShowShareButtons: false
   ShowBreadCrumbs: false
@@ -23,5 +23,5 @@ menu:
       url: "#services"
       weight: 1
     - name: Contact
-      url: "mailto:liujinxing@proton.me"
+      url: "mailto:contact@verbaforge.com"
       weight: 2

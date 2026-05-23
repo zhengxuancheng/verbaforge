@@ -97,8 +97,8 @@ Recent work: 48-article portfolio ranking on Google, Amazon listings for consume
 Would you be open to a 15-minute call to see if there's a fit?
 
 Best,
-Jinxing Liu
-liujinxing@proton.me
+Alex Chen  (VerbaForge Studio)
+contact@verbaforge.com
 [Landing page URL]
 
 ---
@@ -107,13 +107,13 @@ liujinxing@proton.me
 
 When you see a [HIRING] post for content writing/translation:
 
-"Hi, I can help with this. 10+ years professional writing at Dell, AI-accelerated workflow for fast turnaround. Portfolio includes 48 ranked articles and Amazon listing optimizations. $[X]/article or $[X]/project. DM me for samples and live URLs. — Jinxing"
+"Hi, I can help with this. 10+ years professional writing at Dell, AI-accelerated workflow for fast turnaround. Portfolio includes 48 ranked articles and Amazon listing optimizations. $[X]/article or $[X]/project. DM me for samples and live URLs. — VerbaForge"
 
 ---
 
 ## Quick-Start Checklist (You Do These)
 
-1. **Deploy landing page** → Cloudflare Pages: `zhengxuancheng/liujinxing-services`, framework Hugo, `hugo --minify`, output `public`, env `HUGO_VERSION=0.161.1`
+1. **Deploy landing page** → Cloudflare Pages: `zhengxuancheng/verbaforge`, framework Hugo, `hugo --minify`, output `public`, env `HUGO_VERSION=0.161.1`
 
 2. **Create Fiverr account** → Copy gig templates above, set up 3 gigs
 
