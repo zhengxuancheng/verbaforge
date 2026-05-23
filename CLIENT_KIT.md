@@ -113,7 +113,7 @@ When you see a [HIRING] post for content writing/translation:
 
 ## Quick-Start Checklist (You Do These)
 
-1. **Deploy landing page** → Cloudflare Pages: `zhengxuancheng/verbaforge`, framework Hugo, `hugo --minify`, output `public`, env `HUGO_VERSION=0.161.1`
+1. **Landing page is live** → https://zhengxuancheng.github.io/verbaforge/ (auto-deployed via GitHub Pages)
 
 2. **Create Fiverr account** → Copy gig templates above, set up 3 gigs
 
